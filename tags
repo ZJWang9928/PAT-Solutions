@@ -1,0 +1,243 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	Basic/1022.cpp	/^long long A, B;$/;"	kind:v	line:12
+B	Basic/1022.cpp	/^long long A, B;$/;"	kind:v	line:12
+CLK_TCK	Basic/1026.cpp	/^const int CLK_TCK = 100;$/;"	kind:v	line:12
+D	Basic/1020.cpp	/^int N, D;$/;"	kind:v	line:12
+D	Basic/1022.cpp	/^int D;$/;"	kind:v	line:13
+H	Basic/1015.cpp	/^int N, L, H;$/;"	kind:v	line:12
+IDD	Basic/1031.cpp	/^string IDD;$/;"	kind:v	line:13
+InSort	Basic/1035.cpp	/^void InSort() {$/;"	kind:f	line:15	signature:()
+K	Basic/1038.cpp	/^int N, K;$/;"	kind:v	line:12
+L	Basic/1015.cpp	/^int N, L, H;$/;"	kind:v	line:12
+MaxG	Basic/1004.cpp	/^int MaxG = -1, MinG = 120, TmpG;$/;"	kind:v	line:14
+MaxName	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+MaxNo	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+MeSort	Basic/1035.cpp	/^void MeSort() {$/;"	kind:f	line:34	signature:()
+MinG	Basic/1004.cpp	/^int MaxG = -1, MinG = 120, TmpG;$/;"	kind:v	line:14
+MinName	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+MinNo	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+N	Basic/1007.cpp	/^long long N;$/;"	kind:v	line:12
+N	Basic/1015.cpp	/^int N, L, H;$/;"	kind:v	line:12
+N	Basic/1020.cpp	/^int N, D;$/;"	kind:v	line:12
+N	Basic/1028.cpp	/^int N;$/;"	kind:v	line:62
+N	Basic/1030.cpp	/^int N, p;$/;"	kind:v	line:12
+N	Basic/1031.cpp	/^int N;$/;"	kind:v	line:12
+N	Basic/1032.cpp	/^int N;$/;"	kind:v	line:13
+N	Basic/1036.cpp	/^int N;$/;"	kind:v	line:12
+N	Basic/1038.cpp	/^int N, K;$/;"	kind:v	line:12
+N	Basic/1041.cpp	/^int N;$/;"	kind:v	line:12
+N	Basic/1044.cpp	/^int N;$/;"	kind:v	line:15
+N	Basic/1045.cpp	/^int N, tmax, maxIndex;$/;"	kind:v	line:12
+N	Basic/1046.cpp	/^int N;$/;"	kind:v	line:12
+N	Basic/1047.cpp	/^int N;$/;"	kind:v	line:12
+RR	Basic/1024.cpp	/^queue<int> RR;$/;"	kind:v	line:14
+TmpG	Basic/1004.cpp	/^int MaxG = -1, MinG = 120, TmpG;$/;"	kind:v	line:14
+TmpName	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+TmpNo	Basic/1004.cpp	/^string MaxName, MinName, MaxNo, MinNo, TmpName, TmpNo;$/;"	kind:v	line:13
+a	Basic/1005.cpp	/^long long a[10005], ret[50005], vis[10005];$/;"	kind:v	line:13
+a	Basic/1009.cpp	/^char a[105][105], c;$/;"	kind:v	line:12
+a	Basic/1011.cpp	/^long long a, b, c;$/;"	kind:v	line:12
+a1	Basic/1012.cpp	/^long long a1, a2, a3, a5;$/;"	kind:v	line:14
+a1	Basic/1034.cpp	/^int a1, b1, a2, b2;$/;"	kind:v	line:12
+a1	Basic/1035.cpp	/^int a1[102], a2[102], b[102];$/;"	kind:v	line:13
+a1	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+a2	Basic/1012.cpp	/^long long a1, a2, a3, a5;$/;"	kind:v	line:14
+a2	Basic/1034.cpp	/^int a1, b1, a2, b2;$/;"	kind:v	line:12
+a2	Basic/1035.cpp	/^int a1[102], a2[102], b[102];$/;"	kind:v	line:13
+a2	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+a3	Basic/1012.cpp	/^long long a1, a2, a3, a5;$/;"	kind:v	line:14
+a3	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+a4	Basic/1012.cpp	/^double a4;$/;"	kind:v	line:15
+a5	Basic/1012.cpp	/^long long a1, a2, a3, a5;$/;"	kind:v	line:14
+add	Basic/1025.cpp	/^	int add;$/;"	kind:m	line:13	struct:node	file:	access:public
+b	Basic/1011.cpp	/^long long a, b, c;$/;"	kind:v	line:12
+b	Basic/1035.cpp	/^int a1[102], a2[102], b[102];$/;"	kind:v	line:13
+b1	Basic/1034.cpp	/^int a1, b1, a2, b2;$/;"	kind:v	line:12
+b2	Basic/1034.cpp	/^int a1, b1, a2, b2;$/;"	kind:v	line:12
+c	Basic/1009.cpp	/^char a[105][105], c;$/;"	kind:v	line:12
+c	Basic/1011.cpp	/^long long a, b, c;$/;"	kind:v	line:12
+c	Basic/1048.cpp	/^string c = "";$/;"	kind:v	line:16
+c1	Basic/1026.cpp	/^int c1, c2;$/;"	kind:v	line:14
+c2	Basic/1026.cpp	/^int c1, c2;$/;"	kind:v	line:14
+cai	Basic/1015.cpp	/^	int cai;$/;"	kind:m	line:16	struct:node	file:	access:public
+check	Basic/1028.cpp	/^bool check(int year, int month, int day) {$/;"	kind:f	line:19	signature:(int year, int month, int day)
+check	Basic/1031.cpp	/^bool check(string IDD) {$/;"	kind:f	line:17	signature:(string IDD)
+check	Basic/1033.cpp	/^int check[300] = {0};$/;"	kind:v	line:14
+cmp	Basic/1015.cpp	/^bool cmp(node &n1, node &n2) {$/;"	kind:f	line:20	signature:(node &n1, node &n2)
+cmp	Basic/1019.cpp	/^bool cmp(int a,int b){$/;"	kind:f	line:4	signature:(int a,int b)
+cmp	Basic/1020.cpp	/^bool cmp(node &n1, node &n2) {$/;"	kind:f	line:20	signature:(node &n1, node &n2)
+cnt	Basic/1007.cpp	/^long long cnt = 0;$/;"	kind:v	line:13
+cnt	Basic/1042.cpp	/^int cnt[300] = {0};$/;"	kind:v	line:13
+cnt	Basic/1043.cpp	/^int cnt[300] = {0};$/;"	kind:v	line:13
+compare	Basic/1028.cpp	/^bool compare(node &n1, node &n2) {$/;"	kind:f	line:50	signature:(node &n1, node &n2)
+da	Basic/1016.cpp	/^int da, db;$/;"	kind:v	line:13
+data	Basic/1025.cpp	/^	int data;$/;"	kind:m	line:14	struct:node	file:	access:public
+day	Basic/1028.cpp	/^	int day;$/;"	kind:m	line:16	struct:node	file:	access:public
+db	Basic/1016.cpp	/^int da, db;$/;"	kind:v	line:13
+de	Basic/1015.cpp	/^	int de;$/;"	kind:m	line:15	struct:node	file:	access:public
+draft	Basic/1018.cpp	/^int jiawin, yiwin, draft;$/;"	kind:v	line:15
+expect	Basic/1033.cpp	/^string expect;$/;"	kind:v	line:13
+firstClass	Basic/1015.cpp	/^node firstClass[100002];$/;"	kind:v	line:31
+fourthClass	Basic/1015.cpp	/^node fourthClass[100002];$/;"	kind:v	line:34
+han	Basic/1015.cpp	/^node han;$/;"	kind:v	line:30
+higher	Basic/1044.cpp	/^string higher[14] = {"null" ,"tam", "hel", "maa", "huh", "tou", "kes", "hei", "elo", "syy", "lok", "mer", "jou"};$/;"	kind:v	line:13
+i	Basic/1009.cpp	/^int length, i;$/;"	kind:v	line:13
+id	Basic/1015.cpp	/^	string id;$/;"	kind:m	line:14	struct:node	file:	access:public
+isPrime	Basic/1007.cpp	/^void isPrime() {$/;"	kind:f	line:16	signature:()
+isPrime	Basic/1013.cpp	/^void isPrime() {$/;"	kind:f	line:16	signature:()
+jia	Basic/1018.cpp	/^char jia, yi;$/;"	kind:v	line:13
+jiawin	Basic/1018.cpp	/^int jiawin, yiwin, draft;$/;"	kind:v	line:15
+jiawinwin	Basic/1018.cpp	/^map<char, int> jiawinwin, yiwinwin;$/;"	kind:v	line:16
+judge	Basic/1018.cpp	/^int judge(char jia, char yi) {$/;"	kind:f	line:18	signature:(char jia, char yi)
+k	Basic/1005.cpp	/^int k;$/;"	kind:v	line:12
+length	Basic/1009.cpp	/^int length, i;$/;"	kind:v	line:13
+lleft	Basic/1024.cpp	/^int lleft;$/;"	kind:v	line:13
+lltoString	Basic/1002.cpp	/^string lltoString(long long t)$/;"	kind:f	line:16	signature:(long long t)
+m	Basic/1010.cpp	/^int m, n;$/;"	kind:v	line:12
+m	Basic/1013.cpp	/^int m, n;$/;"	kind:v	line:12
+main	Basic/1001.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1002.cpp	/^int main() {$/;"	kind:f	line:25	signature:()
+main	Basic/1003.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1004.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1005.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1006.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1007.cpp	/^int main() {$/;"	kind:f	line:29	signature:()
+main	Basic/1008.cpp	/^int main() {$/;"	kind:f	line:13	signature:()
+main	Basic/1009.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1010.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1011.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1012.cpp	/^int main() {$/;"	kind:f	line:17	signature:()
+main	Basic/1013.cpp	/^int main() {$/;"	kind:f	line:32	signature:()
+main	Basic/1014.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1015.cpp	/^int main() {$/;"	kind:f	line:36	signature:()
+main	Basic/1016.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1017.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1018.cpp	/^int main() {$/;"	kind:f	line:28	signature:()
+main	Basic/1019.cpp	/^int main()$/;"	kind:f	line:21	signature:()
+main	Basic/1020.cpp	/^int main() {$/;"	kind:f	line:24	signature:()
+main	Basic/1021.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1022.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1023.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1024.cpp	/^int main() {$/;"	kind:f	line:18	signature:()
+main	Basic/1025.cpp	/^int main() {$/;"	kind:f	line:18	signature:()
+main	Basic/1026.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1027.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1028.cpp	/^int main() {$/;"	kind:f	line:64	signature:()
+main	Basic/1029.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1030.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1031.cpp	/^int main() {$/;"	kind:f	line:99	signature:()
+main	Basic/1032.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1033.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1034.cpp	/^int main() {$/;"	kind:f	line:16	signature:()
+main	Basic/1035.cpp	/^int main() {$/;"	kind:f	line:57	signature:()
+main	Basic/1036.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1037.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1038.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1039.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1040.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1041.cpp	/^int main() {$/;"	kind:f	line:19	signature:()
+main	Basic/1042.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1043.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1044.cpp	/^int main() {$/;"	kind:f	line:17	signature:()
+main	Basic/1045.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1046.cpp	/^int main() {$/;"	kind:f	line:14	signature:()
+main	Basic/1047.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+main	Basic/1048.cpp	/^int main() {$/;"	kind:f	line:19	signature:()
+main	Basic/1093.cpp	/^int main() {$/;"	kind:f	line:15	signature:()
+maxIndex	Basic/1045.cpp	/^int N, tmax, maxIndex;$/;"	kind:v	line:12
+mmax	Basic/1005.cpp	/^long long mmin = 1000000000, mmax = -1;$/;"	kind:v	line:14
+mmin	Basic/1005.cpp	/^long long mmin = 1000000000, mmax = -1;$/;"	kind:v	line:14
+month	Basic/1028.cpp	/^	int month;$/;"	kind:m	line:15	struct:node	file:	access:public
+mooncake	Basic/1020.cpp	/^} mooncake[1002];$/;"	kind:v	line:18	typeref:struct:node
+n	Basic/1001.cpp	/^long long n;$/;"	kind:v	line:12
+n	Basic/1003.cpp	/^int n;$/;"	kind:v	line:12
+n	Basic/1004.cpp	/^int n;$/;"	kind:v	line:12
+n	Basic/1010.cpp	/^int m, n;$/;"	kind:v	line:12
+n	Basic/1012.cpp	/^int n, posi;$/;"	kind:v	line:13
+n	Basic/1013.cpp	/^int m, n;$/;"	kind:v	line:12
+n	Basic/1017.cpp	/^int n;$/;"	kind:v	line:13
+n	Basic/1018.cpp	/^int n;$/;"	kind:v	line:14
+n	Basic/1035.cpp	/^int n;$/;"	kind:v	line:12
+name	Basic/1028.cpp	/^	string name;$/;"	kind:m	line:13	struct:node	file:	access:public
+next	Basic/1025.cpp	/^	int next;$/;"	kind:m	line:15	struct:node	file:	access:public
+no	Basic/1041.cpp	/^	string no;$/;"	kind:m	line:14	struct:node	file:	access:public
+node	Basic/1015.cpp	/^struct node {$/;"	kind:s	line:13	file:
+node	Basic/1020.cpp	/^struct node {$/;"	kind:s	line:14	file:
+node	Basic/1025.cpp	/^struct node {$/;"	kind:s	line:12	file:
+node	Basic/1028.cpp	/^struct node {$/;"	kind:s	line:12	file:
+node	Basic/1041.cpp	/^struct node {$/;"	kind:s	line:13	file:
+node::add	Basic/1025.cpp	/^	int add;$/;"	kind:m	line:13	struct:node	file:	access:public
+node::cai	Basic/1015.cpp	/^	int cai;$/;"	kind:m	line:16	struct:node	file:	access:public
+node::data	Basic/1025.cpp	/^	int data;$/;"	kind:m	line:14	struct:node	file:	access:public
+node::day	Basic/1028.cpp	/^	int day;$/;"	kind:m	line:16	struct:node	file:	access:public
+node::de	Basic/1015.cpp	/^	int de;$/;"	kind:m	line:15	struct:node	file:	access:public
+node::id	Basic/1015.cpp	/^	string id;$/;"	kind:m	line:14	struct:node	file:	access:public
+node::month	Basic/1028.cpp	/^	int month;$/;"	kind:m	line:15	struct:node	file:	access:public
+node::name	Basic/1028.cpp	/^	string name;$/;"	kind:m	line:13	struct:node	file:	access:public
+node::next	Basic/1025.cpp	/^	int next;$/;"	kind:m	line:15	struct:node	file:	access:public
+node::no	Basic/1041.cpp	/^	string no;$/;"	kind:m	line:14	struct:node	file:	access:public
+node::price	Basic/1020.cpp	/^	double price;$/;"	kind:m	line:17	struct:node	file:	access:public
+node::real	Basic/1041.cpp	/^	int real;$/;"	kind:m	line:16	struct:node	file:	access:public
+node::storage	Basic/1020.cpp	/^	double storage;$/;"	kind:m	line:15	struct:node	file:	access:public
+node::sum	Basic/1015.cpp	/^	int sum;$/;"	kind:m	line:17	struct:node	file:	access:public
+node::test	Basic/1041.cpp	/^	int test;$/;"	kind:m	line:15	struct:node	file:	access:public
+node::tol	Basic/1020.cpp	/^	double tol;$/;"	kind:m	line:16	struct:node	file:	access:public
+node::year	Basic/1028.cpp	/^	int year;$/;"	kind:m	line:14	struct:node	file:	access:public
+num	Basic/1013.cpp	/^bool num[105000];$/;"	kind:v	line:14
+num	Basic/1023.cpp	/^int num[12];$/;"	kind:v	line:12
+num	Basic/1030.cpp	/^long long num[100002];$/;"	kind:v	line:13
+num	Basic/1031.cpp	/^int num[20];$/;"	kind:v	line:15
+o1	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+o2	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+o3	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+p	Basic/1030.cpp	/^int N, p;$/;"	kind:v	line:12
+p1	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+p2	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+p3	Basic/1037.cpp	/^int p1, p2, p3, a1, a2, a3, o1, o2, o3;$/;"	kind:v	line:12
+person	Basic/1028.cpp	/^}person[100002];$/;"	kind:v	line:17	typeref:struct:node
+piv	Basic/1027.cpp	/^char piv;$/;"	kind:v	line:13
+piv	Basic/1036.cpp	/^char piv;$/;"	kind:v	line:13
+posi	Basic/1012.cpp	/^int n, posi;$/;"	kind:v	line:13
+posi	Basic/1024.cpp	/^int posi;$/;"	kind:v	line:16
+price	Basic/1020.cpp	/^	double price;$/;"	kind:m	line:17	struct:node	file:	access:public
+prime	Basic/1007.cpp	/^bool prime[100005];$/;"	kind:v	line:14
+prime	Basic/1013.cpp	/^vector<int> prime;$/;"	kind:v	line:13
+real	Basic/1041.cpp	/^	int real;$/;"	kind:m	line:16	struct:node	file:	access:public
+res	Basic/1003.cpp	/^vector<string> res;$/;"	kind:v	line:14
+res	Basic/1022.cpp	/^vector<int> res;$/;"	kind:v	line:14
+ret	Basic/1005.cpp	/^long long a[10005], ret[50005], vis[10005];$/;"	kind:v	line:13
+ret	Basic/1021.cpp	/^int ret[12];$/;"	kind:v	line:13
+ret	Basic/1045.cpp	/^int ret[100002] = {0};$/;"	kind:v	line:13
+s	Basic/1003.cpp	/^string s;$/;"	kind:v	line:13
+score	Basic/1032.cpp	/^int score[100002];$/;"	kind:v	line:14
+score	Basic/1038.cpp	/^int score[102];$/;"	kind:v	line:13
+score	Basic/1047.cpp	/^int score[1002];$/;"	kind:v	line:13
+secondClass	Basic/1015.cpp	/^node secondClass[100002];$/;"	kind:v	line:32
+sg	Basic/1039.cpp	/^int sg[300], sw[300];$/;"	kind:v	line:13
+sign	Basic/1024.cpp	/^int sign;$/;"	kind:v	line:12
+single	Basic/1048.cpp	/^char single[14] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'J', 'Q', 'K'};$/;"	kind:v	line:17
+storage	Basic/1020.cpp	/^	double storage;$/;"	kind:m	line:15	struct:node	file:	access:public
+stu	Basic/1041.cpp	/^}stu[1002];$/;"	kind:v	line:17	typeref:struct:node
+sum	Basic/1015.cpp	/^	int sum;$/;"	kind:m	line:17	struct:node	file:	access:public
+sw	Basic/1039.cpp	/^int sg[300], sw[300];$/;"	kind:v	line:13
+take	Basic/1024.cpp	/^int take;$/;"	kind:v	line:15
+test	Basic/1041.cpp	/^	int test;$/;"	kind:m	line:15	struct:node	file:	access:public
+thirdClass	Basic/1015.cpp	/^node thirdClass[100002];$/;"	kind:v	line:33
+tmax	Basic/1045.cpp	/^int N, tmax, maxIndex;$/;"	kind:v	line:12
+to_array	Basic/1019.cpp	/^void to_array(int n,int num[]){\/\/\/将n的每一位存到num数组$/;"	kind:f	line:7	signature:(int n,int num[])
+to_number	Basic/1019.cpp	/^int to_number(int num[]){\/\/\/将num数组转换为数字$/;"	kind:f	line:13	signature:(int num[])
+tol	Basic/1020.cpp	/^	double tol;$/;"	kind:m	line:16	struct:node	file:	access:public
+tol	Basic/1027.cpp	/^int tol;$/;"	kind:v	line:12
+vis	Basic/1005.cpp	/^long long a[10005], ret[50005], vis[10005];$/;"	kind:v	line:13
+vis	Basic/1029.cpp	/^int vis[1000];$/;"	kind:v	line:13
+vis	Basic/1093.cpp	/^int vis[300] = {0};$/;"	kind:v	line:13
+weight	Basic/1031.cpp	/^int weight[] = {7,9,10,5,8,4,2,1,6,3,7,9,10,5,8,4,2};$/;"	kind:v	line:14
+year	Basic/1028.cpp	/^	int year;$/;"	kind:m	line:14	struct:node	file:	access:public
+yi	Basic/1018.cpp	/^char jia, yi;$/;"	kind:v	line:13
+yiwin	Basic/1018.cpp	/^int jiawin, yiwin, draft;$/;"	kind:v	line:15
+yiwinwin	Basic/1018.cpp	/^map<char, int> jiawinwin, yiwinwin;$/;"	kind:v	line:16

@@ -1,3 +1,6 @@
+/* 有点坑的一道题，A比B长的时候不能直接不管多出来的部分，
+ * 也要和i前导零进行操作，否则3和5过不了*/
+
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
